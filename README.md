@@ -4,9 +4,12 @@
 Analyzed customer purchasing behavior using PCA and Lasso regression to identify key drivers of wine purchases and evaluate the relative importance of behavioral vs demographic factors.
 
 🧠 Methods
+
 Dimensionality Reduction: Principal Component Analysis (PCA)
 Predictive Modeling: Lasso Regression
+
 Dataset: 2,240 customer records, 42 features
+
 📊 Results
 R²: ~0.52–0.61
 RMSE: 0.461
